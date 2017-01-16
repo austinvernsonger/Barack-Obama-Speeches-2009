@@ -94,5 +94,63 @@ We just emerged from an era marked by irresponsibility, and it would be easy to 
 
 Thank you very much. Thank you. Thank you very much.
 
+---
+
+# April 5, 2009
+
+
+
+
+
+---
+
+# April 6, 2009
+
+
+
+
+
+---
+
+# April 7, 2009
+
+
+
+
+
+---
+
+# April 14, 2014
+
+
+
+
+
+
+
+
+
+---
+
+# April 23, 2009
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
+
+
+
+
 
 
