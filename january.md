@@ -80,11 +80,9 @@ America: In the face of our common dangers, in this winter of our hardship, let 
 
 Thank you, God bless you, and God bless the United States of America.
 
-
+---
 
 # January 24, 2009
-
-
 
 We begin this year and this Administration in the midst of an unprecedented crisis that calls for unprecedented action. Just this week, we saw more people file for unemployment than at any time in the last twenty-six years, and experts agree that if nothing is done, the unemployment rate could reach double digits. Our economy could fall $1 trillion short of its full capacity, which translates into more than $12,000 in lost income for a family of four. And we could lose a generation of potential, as more young Americans are forced to forgo college dreams or the chance to train for the jobs of the future.
 
