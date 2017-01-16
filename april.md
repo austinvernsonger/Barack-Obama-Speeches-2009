@@ -532,8 +532,6 @@ So today, during this season when we celebrate liberation, resurrection, and the
 
 Thank you, God bless you, and God bless the United States of America.
 
-
-
 ---
 
 
