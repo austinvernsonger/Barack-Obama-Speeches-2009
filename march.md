@@ -104,11 +104,7 @@ Thank you very much. God bless you. God bless the United States of America.
 
 Thank you.
 
-
-
 ---
-
-
 
 
 
