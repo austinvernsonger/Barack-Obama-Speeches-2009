@@ -10,6 +10,7 @@
   * [February 24, 2009](february/february-24-2009.md)
   * [February 27, 2009](february/february-27-2009.md)
 * [March](march.md)
+  * [March 10, 2009](march/march-10-2009.md)
 * [April](april.md)
 * [May](may.md)
 * [June](june.md)
