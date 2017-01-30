@@ -33,9 +33,26 @@
   * [June 23, 2009b](june/june-23-2009b.md)
     * [Q & A](june/june-23-2009b/q-and-a.md)
 * [July](july.md)
+  * July 7, 2009
+  * July 11, 2009
+  * July 13, 2009
+  * July 14, 2009
 * [August](august.md)
+  * August 29, 2009
 * [September](september.md)
+  * September 8, 2009
+  * September 9, 2009a
+  * September 9, 2009b
+  * September 11, 2009
+  * September 23, 2009
 * [October](october.md)
 * [November](november.md)
+  * [November 10, 2009](november/november-10-2009.md)
 * [December](december.md)
+  * December 1, 2009
+  * December 6, 2009
+  * December 8, 2009
+  * December 10, 2009
+  * December 18, 2009
+  * December 28, 2009
 
