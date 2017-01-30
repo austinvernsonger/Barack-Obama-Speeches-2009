@@ -23,6 +23,7 @@
   * [May 9, 2009](may/may-9-2009.md)
   * [May 18, 2009](may/may-18-2009.md)
   * [May 21, 2009](may/may-21-2009.md)
+  * [May 29, 2009](may/may-29-2009.md)
 * [June](june.md)
 * [July](july.md)
 * [August](august.md)
