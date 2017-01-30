@@ -30,7 +30,7 @@
   * [June 5, 2009](june/june-5-2009.md)
   * [June 15, 2009](june/june-15-2009.md)
   * [June 23, 2009a](june/june-23-2009.md)
-  * [June 23, 2009b.md](june/june-23-2009-(2nd)
+  * [June 23, 2009b](june/june-23-2009b.md)
 * [July](july.md)
 * [August](august.md)
 * [September](september.md)
