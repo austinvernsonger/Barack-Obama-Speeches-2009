@@ -2,6 +2,8 @@
 
 * [Introduction](README.md)
 * [January](january.md)
+  * [January 20, 2009](january/january-20-2009.md)
+  * January 24, 2009
 * [February](february.md)
 * [March](march.md)
 * [April](april.md)
