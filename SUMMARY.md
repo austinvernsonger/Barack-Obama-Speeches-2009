@@ -13,6 +13,9 @@
   * [March 10, 2009](march/march-10-2009.md)
 * [April](april.md)
 * [May](may.md)
+  * May 9, 2009
+  * May 18, 2009
+  * May 21, 2009
 * [June](june.md)
 * [July](july.md)
 * [August](august.md)
