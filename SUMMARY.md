@@ -12,10 +12,16 @@
 * [March](march.md)
   * [March 10, 2009](march/march-10-2009.md)
 * [April](april.md)
+  * [April 3, 2009](april/april-3-2009.md)
+  * [April 5, 2009](april/april-5-2009.md)
+  * [April 6, 2009](april/april-6-2009.md)
+  * [April 7, 2009](april/april-7-2009.md)
+  * [April 14, 2009](april/april-14-2009.md)
+  * [April 23, 2009](april/april-23-2009.md)
 * [May](may.md)
-  * May 9, 2009
-  * May 18, 2009
-  * May 21, 2009
+  * [May 9, 2009](may/may-9-2009.md)
+  * [May 18, 2009](may/may-18-2009.md)
+  * [May 21, 2009](may/may-21-2009.md)
 * [June](june.md)
 * [July](july.md)
 * [August](august.md)
