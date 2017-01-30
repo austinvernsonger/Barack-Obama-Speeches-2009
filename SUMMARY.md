@@ -13,6 +13,7 @@
   * [March 10, 2009](march/march-10-2009.md)
 * [April](april.md)
   * [April 3, 2009](april/april-3-2009.md)
+    * [Q & A](april/april-3-2009/q-and-a.md)
   * [April 5, 2009](april/april-5-2009.md)
   * [April 6, 2009](april/april-6-2009.md)
   * [April 7, 2009](april/april-7-2009.md)
