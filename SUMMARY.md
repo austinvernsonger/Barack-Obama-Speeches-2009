@@ -42,8 +42,8 @@
 * [September](september.md)
   * September 8, 2009
   * September 9, 2009a
-  * September 9, 2009b
-  * September 11, 2009
+  * [September 9, 2009b](september/september-9-2009b.md)
+  * [September 11, 2009](september/september-11-2009.md)
   * September 23, 2009
 * [October](october.md)
 * [November](november.md)
